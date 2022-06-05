@@ -1,4 +1,4 @@
-Hi 👋 My name is Riyajath Ahamed
+Hi 👋 I'm Riyajath Ahamed
 ================================
 
 Student and Young developer
