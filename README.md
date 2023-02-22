@@ -8,7 +8,7 @@ Student and Young developer
 * ✉️  You can contact me at [riyajatha@gmail.com](mailto:riyajatha@gmail.com)
 * 👨‍🎓 An Information Technology Undergraduate from <a href="https://www.kdu.ac.lk/" target="_blank">
 General Sir John Kotelawala Defence University Sri Lanka </a>
-* ⚡  
+* ⚡  ![riyajath-ahamed GitHub Trophies](https://server.dooboo.io/github-trophies/riyajath-ahamed)
 
 <a href="https://www.twitter.com/ARiyajath" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ARiyajath?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
