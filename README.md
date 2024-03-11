@@ -7,8 +7,7 @@ Student and Young developer
 
 * 🌍  I'm based in Colombo
 * ✉️  You can contact me at [riyajatha@gmail.com](mailto:riyajatha@gmail.com)
-* 👨‍🎓 An Information Technology Undergraduate from <a href="https://www.kdu.ac.lk/" target="_blank">
-General Sir John Kotelawala Defence University Sri Lanka </a>
+* 👨‍🎓 Associate SE
 * ⚡ Dattebayo
 
 <a href="https://www.twitter.com/ARiyajath" target="_blank" rel="noreferrer"><img
