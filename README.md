@@ -17,7 +17,9 @@
   <br/>
 </header>
 
+&nbsp;<div align="center">
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/559018268090695692) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/riyajathahamed12/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahamedriyajath) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://riyajatha.medium.com/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ARiyajath)
+</div>
 
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=ffffff&border_color=FFD700)](https://open.spotify.com/user/tzfhzppcgybhfyb8kuhp1z261)
