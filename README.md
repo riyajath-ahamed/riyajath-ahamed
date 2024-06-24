@@ -19,6 +19,10 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/559018268090695692) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/riyajathahamed12/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahamedriyajath) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://riyajatha.medium.com/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ARiyajath)
 
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=ffffff&border_color=FFD700)](https://open.spotify.com/user/tzfhzppcgybhfyb8kuhp1z261)
+</div>
+
 <details>
   <summary><h2>Techs and Stats</h2></summary>
 
@@ -31,10 +35,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=riyajath-ahamed&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=riyajath-ahamed&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riyajath-ahamed&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 
