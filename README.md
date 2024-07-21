@@ -22,7 +22,7 @@
 </div>
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=ffffff&border_color=FFD700)](https://open.spotify.com/user/tzfhzppcgybhfyb8kuhp1z261)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tzfhzppcgybhfyb8kuhp1z261&cover_image=true&theme=default&show_offline=false&background_color=1a1b2e&interchange=false&bar_color=00e038&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=tzfhzppcgybhfyb8kuhp1z261&redirect=true)
 </div>
 
 <details>
