@@ -17,12 +17,12 @@
   <br/>
 </header>
 
-&nbsp;<div align="center">
+&nbsp;<div align="center" >
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/559018268090695692) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/riyajathahamed12/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahamedriyajath) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://riyajatha.medium.com/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ARiyajath)
 </div>
 
-&nbsp;<div align="center">
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tzfhzppcgybhfyb8kuhp1z261&cover_image=true&theme=default&show_offline=false&background_color=1a1b2e&interchange=false&bar_color=00e038&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=tzfhzppcgybhfyb8kuhp1z261&redirect=true)
+&nbsp;<div align="center" style="display:inline; height:20px">
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tzfhzppcgybhfyb8kuhp1z261&cover_image=true&theme=novatorem&show_offline=false&background_color=1d1e3a&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=tzfhzppcgybhfyb8kuhp1z261&redirect=true)
 </div>
 
 <details>
