@@ -43,3 +43,9 @@
 [![](https://visitcount.itsvg.in/api?id=riyajath-ahamed&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </details>
+
+&nbsp;<div align="center" style="display:inline; height:20px">
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=riyajathah&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/riyajathah)
+</div>
+
+
